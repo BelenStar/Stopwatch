@@ -6,8 +6,8 @@ abstract class ThemeText{
 
   static const TextStyle styleText = TextStyle(
     fontSize: 85,
-    color: Colors.white,);
-
+    color: Colors.white,
+  );
 
   static final fontTitle = GoogleFonts.lobster(fontSize: 40);
 
@@ -31,7 +31,7 @@ abstract class ThemeText{
     )
   ); 
 
-static final startBottonStyle = TextButton.styleFrom(
+ static final startBottonStyle = TextButton.styleFrom(
     backgroundColor: const Color.fromARGB(255, 224, 148, 224), 
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
     minimumSize: const Size(120, 40),

@@ -1,16 +1,54 @@
-# stopwatch
+# **Flutter's Stopwatch** 
 
-A new Flutter project.
+This is the first challenge from a Flutter 52 weeks challenge: 
 
-## Getting Started
+**Basic Stopwatch app.**
 
-This project is a starting point for a Flutter application.
+First week   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/check.svg" width="20" height="20">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+##  **Table of contents**
+* General info
+* Technologies
+* Status
+* App preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+ <br/>
+
+### **General Information**
+
+The basic functionalities of this app are:
+- Start the count
+- Stop the count
+- Reset the count
+
+ <br/>
+
+### **Technologies**
+ <br/>
+
+- Flutter 3.0.5
+- Dart 2.17.6
+
+<br/>
+
+### **Status**
+
+<br/>
+
+
+*Completed*
+
+Note:
+ it can be improved
+
+<br/>
+
+
+### **App preview**
+<br/>
+
+ ![Stopwatch app](/lib/src/images/Flutter%2052%20weeks%20challenges.png)
