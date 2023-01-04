@@ -16,8 +16,6 @@ First week   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesom
 
 ---
 
- <br/>
-
 ### **General Information**
 
 The basic functionalities of this app are:
@@ -25,7 +23,6 @@ The basic functionalities of this app are:
 - Stop the count
 - Reset the count
 
- <br/>
 
 ### **Technologies**
  <br/>
@@ -33,7 +30,6 @@ The basic functionalities of this app are:
 - Flutter 3.0.5
 - Dart 2.17.6
 
-<br/>
 
 ### **Status**
 
